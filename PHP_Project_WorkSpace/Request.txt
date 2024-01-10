@@ -1,0 +1,25 @@
+**Yêu cầu dựng web có các chức năng cơ bản:**
+- Đăng ký
+- Đăng nhập
+- Đăng xuất
+- Tìm kiếm
+- Thêm, sửa, xóa bài đăng (tiêu đề, nội dung bài đăng) (người dùng thường có thể sử dụng)
+- Thêm, sửa, xóa người dùng
+- Thiết kế CSDL phù hợp, có sử dụng khóa để liên kết các bảng
+
+Comment thời gian bắt đầu vào phần comment
+
+**Dựng trên môi trường: (Không sử dụng các công cụ hỗ trợ sẵn như XAMPP,...)
+***- máy ảo trên vmware, virtualbox
+- hdh linux server (centos, ubuntu,…) (without GUI)
+- web server: apache hoặc nginx
+- Ngôn ngữ PHP, khuyến khích sử dụng PHP thuần
+- CSDL: mysql, hiểu về cách sử dụng csdl, các bảng, các giá trị, khóa ....*
+
+**Trường hợp khác:**
+- Các bạn có thể lựa chọn code web bằng .Net hoặc JAVA nếu ko muốn dùng PHP
+- sử dụng hdh winserver, hoặc linux tương ứng với ngôn ngữ, sử dụng csdl tùy chọn
+
+Tuyệt đối không clone mã nguồn trên mạng hoặc của người khác !!!-
+
+Yêu cầu nắm vững các kiến thức, chỗ nào không hiểu nên hỏi ngay. Sẽ có bài test kết hợp của giai đoạn 2 và giai đoạn 3 khi hoàn thành giai đoạn 3.
